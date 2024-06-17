@@ -86,6 +86,6 @@ Mobile
 ![Mobile](https://github.com/brendan-sadlier/Shrink-Racer/blob/master/Mobile.png)
 
 Desktop
-![Desktop]((https://github.com/brendan-sadlier/Shrink-Racer/blob/master/Desktop.png)
+![Desktop](https://github.com/brendan-sadlier/Shrink-Racer/blob/master/Desktop.png)
 
 
