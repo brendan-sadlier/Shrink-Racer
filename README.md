@@ -83,9 +83,9 @@ created my own models using a software such as Blender.
 
 Mobile
 
-[![Mobile]("./screenshots/")]("./screenshots/Mobile.png")
+![Mobile](https://github.com/brendan-sadlier/Shrink-Racer/blob/master/Mobile.png)
 
 Desktop
-![Desktop]("./screenshots/Desktop.png")
+![Desktop]((https://github.com/brendan-sadlier/Shrink-Racer/blob/master/Desktop.png)
 
 
